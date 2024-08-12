@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Tonkeeper",
+        "image": "https://tonkeeper.com/assets/logo.png",
+        "about_url": "https://tonkeeper.com",
+        "app_name": "Tonkeeper",
+        "bridge": [
+            {
+                "type": "sse",
+                "url": "https://bridge.tonkeeper.com"
+            }
+        ],
+        "universal_url": "https://tonkeeper.com"
+    },
+    {
+        "name": "MyTonWallet",
+        "image": "https://mytonwallet.com/assets/logo.png",
+        "about_url": "https://mytonwallet.com",
+        "app_name": "MyTonWallet",
+        "bridge": [
+            {
+                "type": "sse",
+                "url": "https://bridge.mytonwallet.com"
+            }
+        ],
+        "universal_url": "https://mytonwallet.com"
+    },
+    {
+        "name": "Tonhub",
+        "image": "https://tonhub.com/assets/logo.png",
+        "about_url": "https://tonhub.com",
+        "app_name": "Tonhub",
+        "bridge": [
+            {
+                "type": "sse",
+                "url": "https://bridge.tonhub.com"
+            }
+        ],
+        "universal_url": "https://tonhub.com"
+    },
+    {
+        "name": "DeWallet",
+        "image": "https://dewallet.com/assets/logo.png",
+        "about_url": "https://dewallet.com",
+        "app_name": "DeWallet",
+        "bridge": [
+            {
+                "type": "sse",
+                "url": "https://bridge.dewallet.com"
+            }
+        ],
+        "universal_url": "https://dewallet.com"
+    },
+    {
+        "name": "BitgetWallet",
+        "image": "https://bitgetwallet.com/assets/logo.png",
+        "about_url": "https://bitgetwallet.com",
+        "app_name": "BitgetWallet",
+        "bridge": [
+            {
+                "type": "sse",
+                "url": "https://bridge.bitgetwallet.com"
+            }
+        ],
+        "universal_url": "https://bitgetwallet.com"
+    },
+    {
+        "name": "SafePal",
+        "image": "https://safepal.com/assets/logo.png",
+        "about_url": "https://safepal.com",
+        "app_name": "SafePal",
+        "bridge": [
+            {
+                "type": "sse",
+                "url": "https://bridge.safepal.com"
+            }
+        ],
+        "universal_url": "https://safepal.com"
+    },
+    {
+        "name": "OKXWallet",
+        "image": "https://okx.com/wallet/logo.png",
+        "about_url": "https://okx.com/wallet",
+        "app_name": "OKXWallet",
+        "bridge": [
+            {
+                "type": "sse",
+                "url": "https://bridge.okx.com"
+            }
+        ],
+        "universal_url": "https://okx.com/wallet"
+    },
+    {
+        "name": "OKXTRWallet",
+        "image": "https://okxtrwallet.com/assets/logo.png",
+        "about_url": "https://okxtrwallet.com",
+        "app_name": "OKXTRWallet",
+        "bridge": [
+            {
+                "type": "sse",
+                "url": "https://bridge.okxtrwallet.com"
+            }
+        ],
+        "universal_url": "https://okxtrwallet.com"
+    }
+]
