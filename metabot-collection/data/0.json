@@ -5,7 +5,7 @@
 As you progress, your MetaSonic can evolve, unlocking new skills and forms.\n
 This character is part of a limited series of 1000, with potential for future editions.\n
 Own, evolve, and enjoy adventures with your one-of-a-kind MetaSonic.",
-    "image": "https://raw.githubusercontent.com/MetaBotZone/BrandAssets/main/metabot-collection/card.png",
+    "image": "https://raw.githubusercontent.com/MetaBotZone/BrandAssets/main/metabot-collection/card-shiny.jpg",
     "buttons": [
         {
             "label": "Website",
@@ -20,5 +20,8 @@ Own, evolve, and enjoy adventures with your one-of-a-kind MetaSonic.",
             "uri": "https://metabot.zone/Projects/MetabotLobby"
         }
     ],
-    "attributes": []
+    "attributes": [{
+        "trait_type": "Rare",
+        "value": "Shiny"
+      }]
 }
